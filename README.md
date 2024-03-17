@@ -3,21 +3,17 @@
 </p>
 
 # 💫 About Me:
-Hello My name is Jason. I've been a project manager and a financial analyst for the last 10 years. I've been project managing for the Home Depot since 2024, and have had success with managing over 600 projects. So why do I have a github profile would be a very natural question. I have been interested in Software/Cloud architecture for a very long time and I am in the middle of transiting over. My linkedin profile is below for your convenience. 
+Hello My name is Jason. I've been a project manager and a financial analyst for the last 10 years. I've been project managing for the Home Depot since 2014, and have had success with managing over 600 projects. So why do I have a github profile would be a very natural question. I have been interested in Software/Cloud architecture for a very long time and I am in the middle of transiting over. My linkedin profile is below for your convenience. 
 
 I have been interested in Network and Cloud engineering since 2015 but as my construction career took off I found myself putting all my efforts in improving my skillset. I am now doing that in the IT field. 
-My concentration has been in Linux administration, Site Reliability Engineering, Cloud architecting on AWS, Azure, GCP, Security Architecting, Data engineering and of course, Data Architecting. As if one wasn’t enough. All these different avenues require strong experience with Python and automation, as well but not limited to using programs like Ansible, Chef, Puppet, Terraform, and the list goes on.   As I transition into this roll my concentration will be building hands on projects and working on labs that focus on infrastructure migration, containerization, microservices, and common solutions to problems in moving to cloud platforms, there are many. I believe that hands on experience through the platforms I have outlined below will give me a very good understanding of the cloud services and how they integrate.
+My concentration has been in Linux administration, Site Reliability Engineering, Cloud architecting on AWS, Azure, GCP, Security Architecting, Data engineering and of course, Data Architecting. As if one wasn’t enough. All these different avenues require strong experience with Python and automation, as well but not limited to using programs like Ansible, Chef, Puppet, Terraform, and the list goes on. As I transition into this roll my concentration will be building hands on projects and working on labs that focus on infrastructure migration, containerization, microservices, and common solutions to problems in moving to cloud platforms ... there are many. I believe that hands on experience through the platforms I have outlined below will give me a very good understanding of the cloud services and how they integrate.
 
 I will document most if not all of my learnings here on github through different repositories that have been categorized for my reference and yours. I have also taken the liberty of adding my notes and references of continuous education in the notion link below that I update almost every single day.
 
 I am quite excited about learning journey! Have a look around and if interested in sparking up a conversation about the field I would love that! it’s quite fun!
 
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/sageideas/Cloud-Engineering-4226f44aa35e4c6e9142dc951bf550a0?pvs=4)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/sageideas/Cloud-Engineering-4226f44aa35e4c6e9142dc951bf550a0?pvs=4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-teixeira/)
 
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/jason-teixeira/)
 
 # 💻 Tech Stack:
 ### Programming Languages:
